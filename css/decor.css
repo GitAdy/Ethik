@@ -1,0 +1,18 @@
+body{
+	background-color: lightsteelblue;
+	margin: 10px;
+}
+header {
+	text-align: center;
+}
+header img {
+	max-width: 100%;
+}
+main {
+	text-align: center;
+}
+table {
+	width: 100%;
+	border: 10px solid grey;
+	background-color: lightslategrey;
+}
