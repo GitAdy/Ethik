@@ -1,6 +1,5 @@
 body{
-	background-color: lightsteelblue;
-	margin: 40px 40px;
+	margin: 0 40px;
 	font-family: 'Raleway', sans-serif;
 }
 header {
@@ -50,4 +49,29 @@ th {
 	border-radius: 250px;
 	height: 500px;
 	width: 500px;
+	border: 5px solid black;
+}
+.align {
+	text-align: center;
+}
+.scircles {
+	border-radius: 150px;
+	width: 300px;
+	height: 300px;
+	border: 5px solid black;
+}
+.shadow {
+	box-shadow: 1px 1px 10px grey;
+}
+a:link, a:visited {
+  background-color: black;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.uberschrift {
+	font-family:  'Raleway', sans-serif;
+	font-size: 30px;
 }
